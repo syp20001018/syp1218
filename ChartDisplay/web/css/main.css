@@ -1,0 +1,15 @@
+.line1{
+   width:100%;
+   border-top:6px black dashed;
+}
+
+.line2{
+   width:100%;
+   border-top:2px black dashed;
+}
+
+.div1
+{
+	top: 5%;
+	left: 10%;
+}
